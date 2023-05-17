@@ -3,9 +3,9 @@
 <p><em>Front-End Developer Student <a href="https://www.aluracursos.com/"> @AluraLatam </a><img src="https://i.ibb.co/VxSjL5B/290338840-558521789324750-4030730341264880648-n.jpg" width="50"></em></p>
 <p>I love creating amazing user experiences and making the web a more beautiful place</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelariasmiranda&label=Profile%20views&color=720eb4&style=plastic" alt="ismaelariasmiranda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ismaelmiranada&label=Profile%20views&color=720eb4&style=plastic" alt="dev-ismaelmiranada" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismaelariasmiranda" alt="ismaelariasmiranda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ismaelmiranada" alt="dev-ismaelmiranada" /></a> </p>
 
 <img align='center' src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47gj2uam50x4z97b94sjdkdr5cz1oz2dz7awx6y3te&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400">
 
